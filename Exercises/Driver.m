@@ -44,3 +44,6 @@ Vpm = zeros(1,1); % replace with ensemble average
 % Choose a realization i and reconstruct with modes 1:n_modes
 i = 1;
 n_modes = 1;
+% UPDATE THE FUNCTION BELOW WITH YOUR CODE
+[Uirec,recErr,c] = ReconstructRealization(U,Um,Phi,i,n_modes); 
+
