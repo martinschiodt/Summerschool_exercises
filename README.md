@@ -9,7 +9,7 @@ Exercise 2
 Reorganize the data within U and V so each velocity field constitutes a POD ensemble.
 
 Exercise 3
-Implement the proper orthogonal decomposition within the "POD" function and run the routine.
+Implement the proper orthogonal decomposition within the "POD" function and run the routine for both U and V data.
 
 Exercise 4
 Plot the POD eigenvalues using loglog - what do you see?
